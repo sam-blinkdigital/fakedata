@@ -1,7 +1,14 @@
 {
   "profiles": [
-    { "id": 1, "name": "john", "age": 21 },
-    { "id": 2, "name": "judy", "age": 31 },
-    { "id": 3, "name": "jack", "age": 41 }
+    { "id": 13, "name": "Bomba"},
+    { "id": 12, "name": "Narco"},
+    { "id": 14, "name": "Celer"},
+    { "id": 15, "name": "Magne"},
+    { "id": 11, "name": "Mr. N"},
+    { "id": 16, "name": "Rubbe"},
+    { "id": 17, "name": "Dynam"},
+    { "id": 18, "name": "Dr IQ"},
+    { "id": 19, "name": "Magma"},
+    { "id": 20, "name": "Torna"}
   ]
 }
